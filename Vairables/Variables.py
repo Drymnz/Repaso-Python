@@ -29,4 +29,8 @@ del otra_forma
 
 print (otra_forma_1)
 
+#Operadores de pertenecia 
+#Busca lo primero en lo siguiente, retorna un true o false
+print ('hola' in otra_forma_1) # False
+print ('hola' not in otra_forma_1) # True
 
